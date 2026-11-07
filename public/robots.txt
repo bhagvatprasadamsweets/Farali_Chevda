@@ -1,0 +1,7 @@
+# Robots.txt for Bhagvat Prasadam Farali Chivda
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.bhagvatprasadam.com/sitemap.xml
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.bhagvatprasadam.com/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.bhagvatprasadam.com/images/farali/tikha/tikha-1.webp</image:loc>
+      <image:title>Bhagvat Prasadam Kela Farali Chivda Tikha</image:title>
+      <image:caption>Authentic Gujarati Spicy Banana Farali Chivda</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bhagvatprasadam.com/images/farali/meetha/meetha-1.webp</image:loc>
+      <image:title>Bhagvat Prasadam Kela Farali Chivda Meetha</image:title>
+      <image:caption>Authentic Gujarati Sweet Banana Farali Chivda</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.bhagvatprasadam.com/products/kela-farali-chivda-tikha-spicy-banana-namkeen-snack</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.bhagvatprasadam.com/products/kela-farali-chivda-meetha-sweet-gujarati-namkeen-snack</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
+
