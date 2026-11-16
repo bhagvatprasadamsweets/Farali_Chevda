@@ -128,7 +128,7 @@ export default function CartDrawer() {
                 <div className="w-16 h-16 rounded-xl overflow-hidden bg-[#FFF8E9] shrink-0 border border-[#E8DCC8] p-1">
                   <img
                     src={item.product.image}
-                    alt={item.product.name}
+                    alt={item.product.alt || `${item.product.name} - Bhagvat Prasadam Authentic Namkeen`}
                     className="w-full h-full object-contain"
                   />
                 </div>

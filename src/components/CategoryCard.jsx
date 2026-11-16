@@ -30,7 +30,7 @@ export default function CategoryCard({ category, onSelectCategory }) {
       <div className="relative w-full h-56 sm:h-64 rounded-2xl overflow-hidden bg-[#FFF7E9] border border-[#681C22]/5">
         <img
           src={category.image}
-          alt={category.alt}
+          alt={category.alt || `${category.name} - Traditional Indian Namkeen & Snacks`}
           className="w-full h-full object-cover transform group-hover:scale-108 transition-transform duration-700 ease-out"
           loading="lazy"
         />

@@ -46,7 +46,7 @@ export default function ProductShowcase() {
             >
               <img
                 src={activeImage.url}
-                alt={activeImage.alt}
+                alt={activeImage.alt || `Bhagvat Prasadam ${activeProduct.title} - Authentic Satvik Upvas Namkeen`}
                 className={`w-full h-full transition-transform duration-500 group-hover:scale-105 ${
                   isPackshot ? 'object-contain p-4' : 'object-cover'
                 }`}
@@ -72,7 +72,7 @@ export default function ProductShowcase() {
                   >
                     <img
                       src={img.url}
-                      alt={img.alt}
+                      alt={img.alt || `Bhagvat Prasadam ${activeProduct.title} - Gallery Image ${idx + 1}`}
                       className={`w-full h-full rounded-lg transition-transform group-hover:scale-105 ${
                         isThumbPack ? 'object-contain' : 'object-cover'
                       }`}

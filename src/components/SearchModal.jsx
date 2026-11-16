@@ -121,7 +121,7 @@ export default function SearchModal() {
                   <div className="w-14 h-14 rounded-xl overflow-hidden bg-[#FFF7E9] shrink-0 border border-[#681C22]/10">
                     <img
                       src={item.image}
-                      alt={item.name}
+                      alt={item.alt || `${item.name} - Authentic Indian Namkeen Snack`}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform"
                     />
                   </div>

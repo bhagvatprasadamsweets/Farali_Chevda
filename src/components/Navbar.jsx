@@ -94,7 +94,7 @@ export default function Navbar() {
               >
                 <img
                   src={logo}
-                  alt="Bhagvat Prasadam Official Logo"
+                  alt="Bhagvat Prasadam Official Logo - Authentic Satvik Gujarati Farali Chivda & Namkeen"
                   className="h-10 sm:h-12 md:h-14 w-auto object-contain transform group-hover:scale-105 transition-transform duration-300 drop-shadow-sm"
                 />
               </a>
@@ -157,7 +157,7 @@ export default function Navbar() {
               >
                 <img
                   src={logo}
-                  alt="Bhagvat Prasadam"
+                  alt="Bhagvat Prasadam Official Logo - Handcrafted Satvik Upvas Namkeen"
                   className="h-10 w-auto object-contain"
                 />
               </a>

@@ -111,25 +111,25 @@ export const FARALI_PRODUCTS = {
       {
         id: 'tikha1',
         url: tikha1,
-        alt: 'Bhagvat Prasadam Kela Farali Chivda Tikha Sealed Packaging Pouch',
+        alt: 'Bhagvat Prasadam Kela Farali Chivda Tikha Spicy Banana Namkeen Sealed Pouch',
         caption: 'Original Bhagvat Prasadam Kela Farali Chivda Tikha Pouch'
       },
       {
         id: 'tikha2',
         url: tikha2,
-        alt: 'Spicy Banana Farali Chivda in Serving Bowl with Peanuts and Raisins',
+        alt: 'Spicy Kela Farali Chivda served in traditional bowl with roasted peanuts and raisins - Bhagvat Prasadam',
         caption: 'Fresh Crispy Tikha Banana Chivda Platter'
       },
       {
         id: 'tikha3',
         url: tikha3,
-        alt: 'Crispy Banana Batons and Peanuts Close Up',
+        alt: 'Crispy spiced raw banana batons and roasted peanuts macro close-up - Bhagvat Prasadam Farali Chivda',
         caption: 'Crunchy Spiced Raw Banana Sticks'
       },
       {
         id: 'tikha4',
         url: tikha4,
-        alt: 'Spicy Farali Chivda Festive Snack Display',
+        alt: 'Festive fasting snack plate of spicy Kela Farali Chivda with Sendha Namak - Bhagvat Prasadam',
         caption: 'Festive Fasting Prasad Serving'
       }
     ],
@@ -275,25 +275,25 @@ export const FARALI_PRODUCTS = {
       {
         id: 'meetha1',
         url: meetha1,
-        alt: 'Bhagvat Prasadam Kela Farali Chivda Meetha Sealed Packaging Pouch',
+        alt: 'Bhagvat Prasadam Kela Farali Chivda Meetha Sweet Banana Namkeen Sealed Pouch',
         caption: 'Original Bhagvat Prasadam Kela Farali Chivda Meetha Pouch'
       },
       {
         id: 'meetha2',
         url: meetha2,
-        alt: 'Sweet Banana Farali Chivda in Serving Bowl with Peanuts and Raisins',
+        alt: 'Sweet Kela Farali Chivda served in authentic bowl with roasted peanuts and golden raisins - Bhagvat Prasadam',
         caption: 'Fresh Crispy Meetha Banana Chivda Platter'
       },
       {
         id: 'meetha3',
         url: meetha3,
-        alt: 'Golden Crispy Banana Batons and Peanuts Close Up',
+        alt: 'Golden crispy sweet raw banana batons and crunchy peanuts close-up - Bhagvat Prasadam Farali Chivda',
         caption: 'Sweet & Crunchy Raw Banana Sticks'
       },
       {
         id: 'meetha4',
         url: meetha4,
-        alt: 'Sweet Banana Chivda Prasad Offering',
+        alt: 'Sacred Nilkanthdham Poicha prasad offering of sweet Kela Farali Chivda upvas snack - Bhagvat Prasadam',
         caption: 'Sacred Nilkanthdham Poicha Prasad'
       }
     ],

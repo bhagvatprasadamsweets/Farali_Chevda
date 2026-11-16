@@ -19,7 +19,7 @@ export default function FinalCTA() {
         >
           <img
             src="/gathiya-pack-main.webp"
-            alt="Bhagvat Prasadam Bhavnagri Gathiya Pack - Click to Buy"
+            alt="Bhagvat Prasadam Authentic Bhavnagri Gathiya Freshness Sealed Snack Pouch"
             className="w-full h-full object-contain"
           />
         </a>

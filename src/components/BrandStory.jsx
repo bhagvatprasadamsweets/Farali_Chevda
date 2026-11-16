@@ -36,7 +36,7 @@ export default function BrandStory() {
             >
               <img
                 src={displayImage}
-                alt={`Bhagvat Prasadam ${activeProduct.title} Platter`}
+                alt={`Bhagvat Prasadam ${activeProduct.title} - Authentic Satvik Gujarati Fasting Snack Handcrafted at Nilkanthdham Poicha`}
                 className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700"
                 loading="lazy"
               />

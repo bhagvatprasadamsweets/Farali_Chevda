@@ -14,7 +14,7 @@ export default function FoodShowcase() {
       >
         <img
           src="/bhavnagari-banner.jpg"
-          alt="Appetizing close-up of Bhavnagri Gathiya, cutting chai, and papaya sambharo - Click to Buy"
+          alt="Authentic Gujarati Bhavnagri Gathiya served with masala cutting chai and spicy papaya sambharo - Bhagvat Prasadam"
           className="w-full h-full object-cover object-center group-hover:scale-102 transition-transform duration-700"
         />
         {/* Warm food-inspired dark gradient overlay */}

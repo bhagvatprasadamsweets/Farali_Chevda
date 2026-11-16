@@ -8,7 +8,7 @@ export default function GathiyaBanner({ onExploreClick }) {
       <div className="absolute inset-0">
         <img
           src={GATHIYA_PRODUCT.images.banner}
-          alt="Bhavnagari Gathiya with cutting chai, fried green chillies, and papaya sambharo"
+          alt="Traditional Gujarati Bhavnagri Gathiya paired with hot cutting chai, fried green chillies, and raw papaya sambharo - Bhagvat Prasadam"
           className="w-full h-full object-cover object-center"
         />
         {/* Editorial Dark Overlay with Warm Tint */}

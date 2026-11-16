@@ -65,7 +65,7 @@ export default function StickyBottomBar() {
           <div className="w-11 h-11 rounded-xl overflow-hidden bg-[#FFF7E9] border border-[#681C22]/15 shrink-0 hidden xs:block">
             <img
               src={GATHIYA_PRODUCT.images.freshBowl}
-              alt="Bhavnagari Gathiya"
+              alt="Authentic Bhavnagri Gathiya - Traditional Gujarati Namkeen Snack"
               className="w-full h-full object-cover"
             />
           </div>

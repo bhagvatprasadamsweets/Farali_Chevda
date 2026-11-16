@@ -21,7 +21,7 @@ export default function GathiyaStory({ onDiscoverClick }) {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white aspect-[4/3] w-full max-w-lg bg-white">
               <img
                 src={GATHIYA_PRODUCT.images.thali}
-                alt="Authentic Bhavnagari Gathiya served on an antique brass thali"
+                alt="Authentic Bhavnagari Gathiya served on an antique brass thali with chillies and sambharo - Bhagvat Prasadam"
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                 loading="lazy"
               />
@@ -41,7 +41,7 @@ export default function GathiyaStory({ onDiscoverClick }) {
             <div className="absolute -bottom-8 -right-2 sm:-right-6 w-44 sm:w-56 aspect-square rounded-2xl overflow-hidden shadow-2xl border-4 border-[#FFF7E9] hidden sm:block bg-white">
               <img
                 src={GATHIYA_PRODUCT.images.freshBowl}
-                alt="Fresh bowl of Bhavnagari Gathiya"
+                alt="Freshly fried bowl of golden crispy Bhavnagri Gathiya namkeen - Bhagvat Prasadam"
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                 loading="lazy"
               />

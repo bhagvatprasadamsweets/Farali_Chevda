@@ -34,7 +34,7 @@ function QuickViewContent({ product, onClose, onAddToCart }) {
         <div className="relative w-full max-w-[280px] aspect-square rounded-2xl overflow-hidden shadow-lg border-2 border-white mb-4">
           <img
             src={imgError ? 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80' : product.image}
-            alt={product.alt || product.name}
+            alt={product.alt || `${product.name} - Authentic Indian Namkeen`}
             onError={() => setImgError(true)}
             className="w-full h-full object-cover"
           />

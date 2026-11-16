@@ -7,7 +7,7 @@ export const CATEGORIES = [
     tagline: 'Classic crunch. Unforgettable flavour.',
     itemCount: '6 Varieties',
     image: IMAGES.catBhujia,
-    alt: 'Golden crispy Bikaneri sev and traditional bhujia in copper bowl',
+    alt: 'Authentic golden crispy Bikaneri sev and traditional Rajasthani bhujia in copper bowl',
     colorTheme: {
       bg: 'bg-[#FFF2D8]',
       badge: 'bg-[#D83A2E]',
@@ -23,7 +23,7 @@ export const CATEGORIES = [
     tagline: 'A little spice. A lot of excitement.',
     itemCount: '8 Blends',
     image: IMAGES.catMixture,
-    alt: 'Colourful Indian namkeen mixture with peanuts, boondi and crunchy sev',
+    alt: 'Spicy Indian namkeen mixture with roasted peanuts, boondi, and crunchy sev',
     colorTheme: {
       bg: 'bg-[#FEEAE8]',
       badge: 'bg-[#681C22]',
@@ -39,7 +39,7 @@ export const CATEGORIES = [
     tagline: 'Old-school favourites, always in style.',
     itemCount: '7 Classics',
     image: IMAGES.catTraditional,
-    alt: 'Traditional Indian snacks and gathiya presented in authentic brass bowls',
+    alt: 'Traditional Gujarati snacks and Bhavnagri gathiya presented in authentic brass bowls',
     colorTheme: {
       bg: 'bg-[#FFF8E7]',
       badge: 'bg-[#F49A24]',
@@ -55,7 +55,7 @@ export const CATEGORIES = [
     tagline: 'Light, crispy and full of desi flavour.',
     itemCount: '5 Specialties',
     image: IMAGES.catChivda,
-    alt: 'Poha chivda and Gujarati farsan varieties garnished with roasted nuts',
+    alt: 'Authentic Gujarati Farali chivda and roasted farsan varieties garnished with roasted nuts',
     colorTheme: {
       bg: 'bg-[#F9F0E1]',
       badge: 'bg-[#52151A]',

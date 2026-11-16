@@ -188,7 +188,7 @@ export default function Hero({ onExploreClick, onStoryClick }) {
                 >
                   <img
                     src={IMAGES.heroBowl}
-                    alt="Authentic brass bowl overflowing with crispy golden Indian bhujia and sev"
+                    alt="Authentic brass bowl overflowing with crispy golden Indian bhujia and sev namkeen"
                     className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
                     loading="eager"
                   />
@@ -205,7 +205,7 @@ export default function Hero({ onExploreClick, onStoryClick }) {
                 >
                   <img
                     src={IMAGES.heroChai}
-                    alt="Hot cutting chai in traditional glass"
+                    alt="Hot Indian cutting chai in traditional glass paired with crunchy namkeen"
                     className="w-full h-full object-cover"
                     loading="eager"
                   />

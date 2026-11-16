@@ -68,7 +68,7 @@ export default function PairingSection() {
           <div className="lg:col-span-7 h-64 sm:h-96 relative overflow-hidden">
             <img
               src={GATHIYA_PRODUCT.images.traditionalThali}
-              alt="Traditional Gujarati brass platter loaded with fresh Bhavnagari gathiya, chillies, sambharo, and chai"
+              alt="Traditional Gujarati brass platter loaded with fresh Bhavnagri gathiya, chillies, sambharo, and chai - Bhagvat Prasadam"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent flex items-end p-6">

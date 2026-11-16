@@ -26,7 +26,7 @@ export default function FaraliBanner() {
           <div className="relative w-full aspect-[1920/800] overflow-hidden bg-[#FFF8E9]">
             <img
               src={currentBanner}
-              alt={`${activeProduct.title} | Bhagvat Prasadam Authentic Gujarati Farali Chivda`}
+              alt={`${activeProduct.title} - Authentic Gujarati Farali Chivda Banner, 100% Satvik Upvas Namkeen | Bhagvat Prasadam`}
               className="w-full h-full object-cover transform group-hover:scale-[1.012] transition-transform duration-700"
               loading="lazy"
             />

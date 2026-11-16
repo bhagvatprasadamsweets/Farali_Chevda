@@ -26,7 +26,7 @@ export default function BhavnagriBanner() {
           {/* Main High-Resolution Banner Image */}
           <img
             src={currentBanner}
-            alt="Authentic Kela Farali Chivda, Crispy, Tasty, Traditional Gujarati Namkeen"
+            alt="Authentic Bhagvat Prasadam Kela Farali Chivda - Crispy Traditional Gujarati Satvik Upvas Namkeen Banner"
             className="w-full h-auto object-cover transform group-hover:scale-[1.012] transition-transform duration-700"
             loading="lazy"
           />

@@ -61,7 +61,7 @@ export default function BestsellerSpotlight() {
               <div className="absolute -bottom-6 -right-2 sm:right-4 w-36 sm:w-44 h-36 sm:h-44 rounded-full overflow-hidden shadow-2xl border-4 border-white hidden sm:block">
                 <img
                   src={spotlightProduct.image}
-                  alt={spotlightProduct.name}
+                  alt={spotlightProduct.alt || `${spotlightProduct.name} - Authentic Indian Namkeen Bestseller`}
                   className="w-full h-full object-cover"
                 />
               </div>

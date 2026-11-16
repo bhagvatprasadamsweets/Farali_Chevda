@@ -46,7 +46,7 @@ export default function Footer() {
                 >
                   <img
                     src={logo}
-                    alt="Bhagvat Prasadam Official Logo"
+                    alt="Bhagvat Prasadam Official Logo - Authentic Satvik Gujarati Farali Chivda & Namkeen"
                     className="h-14 sm:h-16 w-auto object-contain drop-shadow-sm group-hover:scale-105 transition-transform duration-300"
                   />
                 </a>
@@ -316,7 +316,7 @@ export default function Footer() {
         <div className="w-full bg-[#FFF8E9] overflow-hidden leading-none select-none pointer-events-none mt-4 sm:mt-6">
           <img
             src={footerBanner}
-            alt="Bhagvat Prasadam Authentic Kela Farali Chivda Collection | Tikha Chavdo & Mitho Chavdo"
+            alt="Bhagvat Prasadam Authentic Kela Farali Chivda Collection Banner - Tikha Chevdo & Mitho Chevdo Upvas Namkeen"
             className="w-full h-auto block select-none pointer-events-none opacity-95 hover:opacity-100 transition-opacity duration-300"
             loading="lazy"
           />

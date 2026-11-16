@@ -55,7 +55,7 @@ export default function ProductCard({ product }) {
       <div className="relative w-full aspect-square rounded-2xl overflow-hidden bg-[#FFF7E9] mb-4 flex items-center justify-center border border-[#681C22]/5">
         <img
           src={imgError ? 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80' : product.image}
-          alt={product.alt || product.name}
+          alt={product.alt || `${product.name} - Authentic Indian Namkeen Snack`}
           onError={() => setImgError(true)}
           className="w-full h-full object-cover transform group-hover:scale-106 transition-transform duration-500 ease-out"
           loading="lazy"

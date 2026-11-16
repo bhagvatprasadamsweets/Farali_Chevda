@@ -61,7 +61,7 @@ export default function PromotionalBanner({ onCtaClick }) {
               <div className="absolute -bottom-6 -left-6 w-32 h-32 rounded-2xl overflow-hidden shadow-2xl border-4 border-[#681C22] hidden sm:block">
                 <img
                   src={IMAGES.heroChai}
-                  alt="Chai tea companion"
+                  alt="Hot Indian cutting chai paired with crispy Khatta Meetha namkeen mixture"
                   className="w-full h-full object-cover"
                 />
               </div>

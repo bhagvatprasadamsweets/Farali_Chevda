@@ -101,7 +101,7 @@ export default function HeroSection() {
                     >
                       <img
                         src={thumbImage}
-                        alt={prod.title}
+                        alt={`${prod.title} (${prod.titleGujarati}) - Authentic Satvik Gujarati Farali Chivda`}
                         className="w-full h-full object-cover rounded-xl"
                       />
                     </button>
@@ -189,7 +189,11 @@ export default function HeroSection() {
                         exit={{ opacity: 0, scale: 1.02 }}
                         transition={{ duration: 0.35, ease: 'easeOut' }}
                         src={displayedMainImage}
-                        alt={activeProduct.title}
+                        alt={
+                          isBowlView
+                            ? `Authentic Bhagvat Prasadam ${activeProduct.title} served in a traditional bowl with roasted peanuts and raisins`
+                            : `Bhagvat Prasadam ${activeProduct.title} premium sealed freshness pouch pack`
+                        }
                         className={`w-full h-full transform group-hover:scale-105 transition-transform duration-700 ${
                           isBowlView ? 'object-cover' : 'object-contain p-4 drop-shadow-md'
                         }`}
@@ -216,7 +220,11 @@ export default function HeroSection() {
                   <div className="w-full h-full rounded-lg sm:rounded-xl overflow-hidden relative bg-[#FFF8E9]">
                     <img
                       src={displayedThumbImage}
-                      alt="Alternate Angle Preview"
+                      alt={
+                        isBowlView
+                          ? `Bhagvat Prasadam ${activeProduct.title} sealed packaging pouch view`
+                          : `Bhagvat Prasadam ${activeProduct.title} crunchy fasting snack in serving bowl`
+                      }
                       className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
                     />
 

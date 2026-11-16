@@ -15,6 +15,7 @@ export default function HowToEnjoy() {
       description:
         'The quintessential Satvik fast nourishment! High in natural banana energy, crunchy roasted peanuts, and seasoned with pure Sendha Namak to keep you revitalized.',
       image: tikhaBowl,
+      alt: 'Spicy Kela Farali Chivda served with chilled curd for Sacred Upvas and Ekadashi Vrat fasting - Bhagvat Prasadam',
     },
     {
       step: '02',
@@ -25,6 +26,7 @@ export default function HowToEnjoy() {
       description:
         'A bowl of crunchy Tikha or Meetha Farali Chivda paired with piping hot tea. The nutty roasted peanuts and crisp banana batons cut through the tea for pure bliss.',
       image: meethaBowl,
+      alt: 'Sweet Kela Farali Chivda paired with hot cutting masala chai for evening tea time - Bhagvat Prasadam',
     },
     {
       step: '03',
@@ -35,6 +37,7 @@ export default function HowToEnjoy() {
       description:
         'Elevate your Diwali, Janmashtami, and Navratri sweet and farsan thali with the contrasting textures of sweet raisins, peanuts, and crisp spiced banana sticks.',
       image: tikhaFestive,
+      alt: 'Festive Gujarati farsan thali featuring Kela Farali Chivda for Diwali and Navratri - Bhagvat Prasadam',
     },
     {
       step: '04',
@@ -45,6 +48,7 @@ export default function HowToEnjoy() {
       description:
         'Nutritious, clean snacking on the go! Resealable foil pouch keeps the banana chivda completely crisp during road trips, office hours, and pilgrimages.',
       image: meethaPrasad,
+      alt: 'Nutritious Kela Farali Chivda healthy travel snack in resealable packaging pouch - Bhagvat Prasadam',
     },
   ];
 
@@ -75,7 +79,7 @@ export default function HowToEnjoy() {
                 <div className="relative aspect-[4/3] w-full overflow-hidden bg-[#FFF8E9]">
                   <img
                     src={item.image}
-                    alt={item.title}
+                    alt={item.alt || `${item.title} - Bhagvat Prasadam Kela Farali Chivda`}
                     className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
                     loading="lazy"
                   />

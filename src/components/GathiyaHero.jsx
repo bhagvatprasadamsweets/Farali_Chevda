@@ -216,7 +216,7 @@ export default function GathiyaHero() {
             <div className="relative z-20 w-full max-w-[440px] rounded-3xl overflow-hidden shadow-2xl border-4 border-white transform hover:scale-[1.02] transition-transform duration-500 bg-white">
               <img
                 src={GATHIYA_PRODUCT.images.freshBowl}
-                alt="Authentic Bhavnagari Gathiya with gram flour, black pepper, and ajwain"
+                alt="Authentic Gujarati Bhavnagri Gathiya made with pure gram flour, cracked black pepper, and ajwain - Bhagvat Prasadam"
                 className="w-full aspect-square object-cover"
                 loading="eager"
               />
@@ -235,7 +235,7 @@ export default function GathiyaHero() {
             <div className="absolute -bottom-6 -left-3 sm:-left-6 z-25 w-28 sm:w-36 h-28 sm:h-36 rounded-2xl overflow-hidden shadow-xl border-4 border-white">
               <img
                 src={GATHIYA_PRODUCT.images.thali}
-                alt="Bhavnagari Gathiya served on brass thali"
+                alt="Traditional Gujarati Bhavnagri Gathiya served on authentic antique brass thali - Bhagvat Prasadam"
                 className="w-full h-full object-cover"
               />
             </div>
