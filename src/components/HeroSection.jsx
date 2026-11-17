@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ExternalLink, ShoppingBag, RotateCw, ArrowRight } from 'lucide-react';
 import { useFaraliProduct } from '../context/FaraliProductContext';
-import { WhatsAppIcon } from './SocialIcons';
 import HeroBackgroundAnimation from './HeroBackgroundAnimation';
 import HeroOrbitalAnimation from './HeroOrbitalAnimation';
 import defaultBowl from '../assets/images/tikha2.webp';
@@ -53,13 +52,16 @@ export default function HeroSection() {
             className="lg:col-span-7 flex flex-col justify-center items-start text-left"
           >
 
-            {/* Main Heading (Left Aligned) */}
-            <h1 className="font-display font-black text-4xl sm:text-5xl lg:text-6xl tracking-tight text-[#4A2612] leading-[1.08] mb-1.5 text-left">
-              Authentic {activeProduct.title}
+            {/* Main SEO H1 Heading */}
+            <h1 className="font-display font-black text-3xl sm:text-4xl lg:text-5xl tracking-tight text-[#4A2612] leading-[1.1] mb-2 text-left">
+              Authentic Gujarati Farali Chevda – Kela Chivda Online
             </h1>
 
-            {/* Subtitle with Gujarati & Hindi Script (Left Aligned) */}
-            <p className="font-display font-medium text-lg sm:text-2xl text-[#C49A58] tracking-wide mb-1 text-left">
+            {/* Active Product Flavor & Subtitle */}
+            <h2 className="font-display font-extrabold text-2xl sm:text-3xl text-[#8B4513] tracking-wide mb-1 text-left">
+              {activeProduct.title}
+            </h2>
+            <p className="font-display font-medium text-base sm:text-xl text-[#C49A58] tracking-wide mb-1 text-left">
               {activeProduct.subtitle}
             </p>
             <p className="text-xs sm:text-sm font-bold text-[#A8681E] mb-3 text-left">

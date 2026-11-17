@@ -1,10 +1,8 @@
 import { useState } from 'react';
-import { ChevronDown, ExternalLink } from 'lucide-react';
-import { useFaraliProduct } from '../context/FaraliProductContext';
+import { ChevronDown } from 'lucide-react';
 
 export default function FAQSection() {
   const [openIndex, setOpenIndex] = useState(null);
-  const { activeProduct } = useFaraliProduct();
 
   const toggle = (i) => {
     setOpenIndex((curr) => (curr === i ? null : i));

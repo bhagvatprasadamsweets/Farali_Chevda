@@ -1,12 +1,10 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, ExternalLink, ShoppingBag } from 'lucide-react';
-import { useFaraliProduct } from '../context/FaraliProductContext';
 import logo from '../assets/images/Logo.png';
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const { activeProduct } = useFaraliProduct();
 
   useEffect(() => {
     const handleScroll = () => {
