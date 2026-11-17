@@ -1,7 +1,6 @@
 import { FaraliProductProvider } from './context/FaraliProductContext';
 import SEO from './seo/SEO';
 import JsonLd from './seo/JsonLd';
-import AnnouncementBar from './components/AnnouncementBar';
 import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import BrandStory from './components/BrandStory';
@@ -23,10 +22,7 @@ export default function App() {
       <JsonLd />
 
       <div className="min-h-screen flex flex-col bg-[#FFF8E9] text-[#3B2418]">
-        {/* 1. Announcement Bar with Target SEO Keywords */}
-        <AnnouncementBar text="AUTHENTIC GUJARATI FARALI CHIVDA | KELA FARALI CHIVDA TIKHA & MEETHA | 100% SATVIK UPVAS SNACK | BHAGVAT PRASADAM" />
-
-        {/* 2. Sticky Header & Navigation */}
+        {/* Sticky Header with Rotating Free Shipping, Mobile App Discount, and Navigation */}
         <Navbar />
 
         {/* Main Content */}
