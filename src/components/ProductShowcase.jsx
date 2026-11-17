@@ -98,9 +98,9 @@ export default function ProductShowcase() {
               </div>
 
               {/* Title */}
-              <h1 className="font-display font-black text-3xl sm:text-4xl text-[#3B2418] tracking-tight leading-tight">
+              <h3 className="font-display font-black text-3xl sm:text-4xl text-[#3B2418] tracking-tight leading-tight">
                 {activeProduct.title}
-              </h1>
+              </h3>
 
               {/* Subtitle */}
               <p className="text-xs sm:text-sm text-[#A8681E] font-medium mt-1">

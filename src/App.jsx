@@ -8,6 +8,7 @@ import ProductShowcase from './components/ProductShowcase';
 import ProductBenefits from './components/ProductBenefits';
 import ProductDetailsAccordion from './components/ProductDetailsAccordion';
 import HowToEnjoy from './components/HowToEnjoy';
+import FastingGuidesSection from './components/FastingGuidesSection';
 import FAQSection from './components/FAQSection';
 import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
@@ -45,7 +46,10 @@ export default function App() {
           {/* 9. How to Enjoy Section (4 Lifestyle Culinary Rituals) */}
           <HowToEnjoy />
 
-          {/* 10. Frequently Asked Questions (FAQ Accordion) */}
+          {/* 10. Fasting Knowledge & Vrat Guides (Educational SEO Articles) */}
+          <FastingGuidesSection />
+
+          {/* 11. Frequently Asked Questions (FAQ Accordion) */}
           <FAQSection />
 
           {/* 11. Dedicated Contact Section */}

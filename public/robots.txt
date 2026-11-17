@@ -1,7 +1,8 @@
-# Robots.txt for Bhagvat Prasadam Farali Chivda
+# Robots.txt for Bhagvat Prasadam Farali Chevda & Fasting Snacks
+# Official Host: https://farali-chevda.megascale.co.in/
+
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://www.bhagvatprasadam.com/sitemap.xml
-
+# Canonical XML Sitemap
+Sitemap: https://farali-chevda.megascale.co.in/sitemap.xml

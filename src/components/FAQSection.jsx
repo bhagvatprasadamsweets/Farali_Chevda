@@ -38,6 +38,18 @@ export default function FAQSection() {
     {
       q: 'Can I order in bulk for festivals, temples, or corporate gifting?',
       a: 'Yes! We regularly fulfill bulk orders for temple prasad, corporate festive hampers, Diwali gifts, and community fasts. You can select higher quantities directly on our official store or contact our dedicated Gujarat support desk for customized orders.'
+    },
+    {
+      q: 'What is the difference between Farali Chevda and Farali Chivda?',
+      a: 'Farali Chevda (ફરાળી ચેવડો) is the authentic regional Gujarati and Kathiyawadi spelling, whereas Farali Chivda is commonly used across Maharashtra and northern India. Both terms describe the exact same revered Satvik fasting namkeen made from crisp raw banana batons, roasted peanuts, golden raisins, and pure Sendha Namak.'
+    },
+    {
+      q: 'Is Bhagvat Prasadam Kela Farali Chevda 100% gluten-free and grain-free?',
+      a: 'Yes, 100%! Our Kela Farali Chevda contains zero wheat, zero besan (chickpea flour), zero maida, zero corn starch, and zero cereal grains. Handcrafted exclusively with raw green bananas, peanuts, raisins, and Sindhav rock salt in dedicated Satvik lines, it is naturally gluten-free, grain-free, onion-free, and garlic-free.'
+    },
+    {
+      q: 'How can I buy Farali Chevda online with direct doorstep delivery across India?',
+      a: 'You can choose between fiery Tikha (Spicy) or balanced Meetha (Sweet & Savory) and pick your preferred packaging size (200g, 400g, 800g, 1kg) directly on this website. Orders are fulfilled securely via Bhagvat Prasadam with 24-hour dispatch and express door delivery in 2 to 4 business days across India.'
     }
   ];
 

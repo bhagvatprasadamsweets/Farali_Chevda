@@ -55,7 +55,7 @@ export default function HeroSection() {
 
             {/* Main Heading (Left Aligned) */}
             <h1 className="font-display font-black text-4xl sm:text-5xl lg:text-6xl tracking-tight text-[#4A2612] leading-[1.08] mb-1.5 text-left">
-              {activeProduct.title}
+              Authentic {activeProduct.title}
             </h1>
 
             {/* Subtitle with Gujarati & Hindi Script (Left Aligned) */}
@@ -198,6 +198,7 @@ export default function HeroSection() {
                           isBowlView ? 'object-cover' : 'object-contain p-4 drop-shadow-md'
                         }`}
                         loading="eager"
+                        fetchPriority="high"
                       />
                     </AnimatePresence>
 

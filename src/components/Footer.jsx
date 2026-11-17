@@ -124,6 +124,11 @@ export default function Footer() {
                     </a>
                   </li>
                   <li>
+                    <a href="#vrat-guides" onClick={(e) => scrollTo(e, 'vrat-guides')} className="hover:text-[#F28C28] transition-colors cursor-pointer block">
+                      Vrat Guides
+                    </a>
+                  </li>
+                  <li>
                     <a href="#why-us" onClick={(e) => scrollTo(e, 'why-us')} className="hover:text-[#F28C28] transition-colors cursor-pointer block">
                       Why Farali
                     </a>
@@ -195,6 +200,11 @@ export default function Footer() {
                         <li>
                           <a href="#how-to-enjoy" onClick={(e) => scrollTo(e, 'how-to-enjoy')} className="hover:text-[#F28C28] transition-colors cursor-pointer block">
                             How to Enjoy
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#vrat-guides" onClick={(e) => scrollTo(e, 'vrat-guides')} className="hover:text-[#F28C28] transition-colors cursor-pointer block">
+                            Vrat Guides
                           </a>
                         </li>
                         <li>

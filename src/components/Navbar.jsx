@@ -56,6 +56,7 @@ export default function Navbar() {
     { name: 'Showcase', href: 'product-showcase' },
     { name: 'Details', href: 'details' },
     { name: 'How to Enjoy', href: 'how-to-enjoy' },
+    { name: 'Vrat Guides', href: 'vrat-guides' },
     { name: 'FAQ', href: 'faq' },
     { name: 'Contact', href: 'contact' },
   ];

@@ -2,32 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.bhagvatprasadam.com/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <loc>https://farali-chevda.megascale.co.in/</loc>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://www.bhagvatprasadam.com/images/farali/tikha/tikha-1.webp</image:loc>
-      <image:title>Bhagvat Prasadam Kela Farali Chivda Tikha</image:title>
-      <image:caption>Authentic Gujarati Spicy Banana Farali Chivda</image:caption>
+      <image:loc>https://farali-chevda.megascale.co.in/assets/tikha1-BOLqIMwJ.webp</image:loc>
+      <image:title>Bhagvat Prasadam Kela Farali Chivda Tikha Spicy Banana Namkeen Sealed Pouch</image:title>
+      <image:caption>Authentic Gujarati Spicy Banana Farali Chivda Handcrafted in Poicha Gujarat</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.bhagvatprasadam.com/images/farali/meetha/meetha-1.webp</image:loc>
-      <image:title>Bhagvat Prasadam Kela Farali Chivda Meetha</image:title>
-      <image:caption>Authentic Gujarati Sweet Banana Farali Chivda</image:caption>
+      <image:loc>https://farali-chevda.megascale.co.in/assets/tikha2-CK3cgUYV.webp</image:loc>
+      <image:title>Spicy Kela Farali Chivda in Serving Bowl with Peanuts and Golden Raisins</image:title>
+      <image:caption>Traditional Satvik Upvas Namkeen made with pure Sendha Namak</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://farali-chevda.megascale.co.in/assets/meetha1-BuVsdR0P.webp</image:loc>
+      <image:title>Bhagvat Prasadam Kela Farali Chivda Meetha Sweet Banana Namkeen Sealed Pouch</image:title>
+      <image:caption>Authentic Gujarati Sweet Banana Farali Chivda Upvas Snack</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://farali-chevda.megascale.co.in/assets/meetha2-DA9DNfAT.webp</image:loc>
+      <image:title>Sweet Kela Farali Chivda in Serving Bowl with Roasted Peanuts and Raisins</image:title>
+      <image:caption>Crispy Raw Banana Batons Tossed with Sendha Namak and Pure Sugar Crystals</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://farali-chevda.megascale.co.in/assets/faralibanner-ChAzUVHF.webp</image:loc>
+      <image:title>Kela Farali Chivda Authentic Gujarati Fasting Snack Banner</image:title>
+      <image:caption>100% Satvik Nilkanthdham Poicha Farali Namkeen Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://farali-chevda.megascale.co.in/assets/farali2productsfooter-CgvrvHdp.png</image:loc>
+      <image:title>Bhagvat Prasadam Authentic Kela Farali Chivda Duo Collection Banner</image:title>
+      <image:caption>Tikha Chevdo and Mitho Chevdo Traditional Fasting Snack Range</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://www.bhagvatprasadam.com/products/kela-farali-chivda-tikha-spicy-banana-namkeen-snack</loc>
-    <lastmod>2026-11-02</lastmod>
+    <loc>https://farali-chevda.megascale.co.in/#product-showcase</loc>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.bhagvatprasadam.com/products/kela-farali-chivda-meetha-sweet-gujarati-namkeen-snack</loc>
-    <lastmod>2026-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <loc>https://farali-chevda.megascale.co.in/#details</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://farali-chevda.megascale.co.in/#vrat-guides</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://farali-chevda.megascale.co.in/#faq</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
-
